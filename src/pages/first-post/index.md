@@ -20,4 +20,4 @@ It uses a .NET library. How it says on GitHub project page:
 
 >Content aware fill is used to fill in unwanted or missing areas of photographs. See an example of such fill below where we don't want to have the man in blue t-shirt on our picture
 
-![inpaint process](./prcess.gif)
+![inpaint process](./process.gif)
