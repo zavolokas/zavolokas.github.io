@@ -28,7 +28,7 @@ class Bio extends React.Component {
         />
         <p>
           Written by <strong>Sergey Zavoloka</strong>.{' '}
-          <a href="https://twitter.com/zavolokas">
+          <a href="https://twitter.com/zavolokas_eng">
             You should follow him on Twitter
           </a>
         </p>
